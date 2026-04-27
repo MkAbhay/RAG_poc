@@ -11,7 +11,7 @@ This repository is a Python proof-of-concept for retrieval-augmented generation 
 
 - LangChain integration
 - Persistent Chroma vector database setup
-- Notebook-based text loading, embedding, and retrieval examples
+- Notebook-based text/pdf loading, embedding, and retrieval examples
 - Example data in `data/` and a local vector store in `data/vector_store/`
 
 ## Requirements
